@@ -24,6 +24,9 @@ If the input file is `hammer_e6.txt`, the script produces:
 - `hammere6-merged.dot`: DOT file for Graphviz  
 - `hammere6-merged.png`: Image of the move tree (if Graphviz is installed)
 
+![image](https://github.com/user-attachments/assets/c2b33305-82dd-4173-a0a9-2b3731d14dee)
+
+
 ## Installation
 
 Python 3.8+ is required. Install dependencies with:
